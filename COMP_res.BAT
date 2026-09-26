@@ -1,0 +1,1 @@
+objcopy -I binary -O pe-x86-64 -B i386:x86-64 rickroll.mp4 rickroll.o

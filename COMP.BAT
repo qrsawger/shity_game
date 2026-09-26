@@ -1,0 +1,1 @@
+g++ main.cpp PlayRickroll.cpp rickroll.o -o the_game.exe -mwindows -static-libgcc -static-libstdc++ -lmfplat -lmf -lmfreadwrite -lmfuuid -levr -lole32 -lshlwapi -lstrmiids -luuid -lpropsys
