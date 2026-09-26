@@ -1,0 +1,2 @@
+IDR_VIDEO  RCDATA  "rickroll.mp4"
+IDR_AUDIO  RCDATA  "rickroll.flac"

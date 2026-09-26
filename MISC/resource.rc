@@ -1,0 +1,2 @@
+#define IDR_VIDEO 101
+IDR_VIDEO  RCDATA  "rickroll.mp4"
